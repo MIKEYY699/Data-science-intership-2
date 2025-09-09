@@ -40,5 +40,3 @@ Developed an interactive dashboard for analyzing sales, profit, and segment-wise
 
 * DevelopersHub Corporation for providing the internship opportunity and datasets.
 * Brave for providing the infrastructure and support for this project.
-
-Feel free to customize this template to fit your specific needs and repository structure.
